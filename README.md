@@ -1,11 +1,6 @@
 # [Kaggle Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
 ***
 
-... Another morning coffe work at VERI.
-
-Run in GPU : [[Open in Google Colab]()]
-
-
 
 
 ## References
