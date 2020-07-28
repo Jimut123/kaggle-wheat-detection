@@ -2,9 +2,11 @@
 ***
 [[Google Colab](https://colab.research.google.com/drive/14JpjbrJpN3-R_FkXg7sigJcWOAehEYFC?usp=sharing)]
 
-
+### Phase : 3
 ![Wheat](https://github.com/Jimut123/kaggle-wheat-detection/blob/master/test_batch0_gt.jpg)
+### Phase : 2
 ![Wheat](https://github.com/Jimut123/kaggle-wheat-detection/blob/master/test_batch0_pred.jpg)
+### Phase : 1
 ![Wheat](https://github.com/Jimut123/kaggle-wheat-detection/blob/master/train_batch2.jpg)
 
 ```
